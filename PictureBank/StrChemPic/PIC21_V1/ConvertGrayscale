@@ -1,0 +1,27 @@
+#!/usr/bin/perl -w
+
+
+$iBegin=1;
+$iEnd=1;
+
+for ($i=$iBegin; $i<=$iEnd; $i++)
+{
+    if ($i < 10)
+    {
+	$str="0".$i;
+    }
+    else
+    {
+	$str=$i;
+    }
+    $eFileInput="21_".$str.".pdf";
+    $eFileOutput="21_".$str."_nc.pdf";
+    $order="gs -sOutputFile=".$eFileOutput." -sDEVICE=pdfwrite -sColorConversionStrategy=Gray -dProcessColorModel=/DeviceGray -dCompatibilityLevel=1.4 -dNOPAUSE -dBATCH ".$eFileInput;
+    print $order."\n";
+    system $order;
+    #
+    $eFileOutputB="21_".$str."_nc.eps";
+    $order="convert ".$eFileOutput." ".$eFileOutputB;
+    print $order."\n";
+    system $order;
+}

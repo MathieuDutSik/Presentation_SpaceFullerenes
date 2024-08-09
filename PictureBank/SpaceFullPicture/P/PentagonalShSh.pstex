@@ -1,0 +1,1746 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%Title: PentagonalShSh.fig
+%%Creator: fig2dev Version 3.2 Patchlevel 5
+%%CreationDate: Sun Jan  3 16:05:03 2010
+%%For: root@dhcppc0 (root)
+%%BoundingBox: 0 0 492 428
+%Magnification: 0.5000
+%%EndComments
+/$F2psDict 200 dict def
+$F2psDict begin
+$F2psDict /mtrx matrix put
+/col-1 {0 setgray} bind def
+/col0 {0.000 0.000 0.000 srgb} bind def
+/col1 {0.000 0.000 1.000 srgb} bind def
+/col2 {0.000 1.000 0.000 srgb} bind def
+/col3 {0.000 1.000 1.000 srgb} bind def
+/col4 {1.000 0.000 0.000 srgb} bind def
+/col5 {1.000 0.000 1.000 srgb} bind def
+/col6 {1.000 1.000 0.000 srgb} bind def
+/col7 {1.000 1.000 1.000 srgb} bind def
+/col8 {0.000 0.000 0.560 srgb} bind def
+/col9 {0.000 0.000 0.690 srgb} bind def
+/col10 {0.000 0.000 0.820 srgb} bind def
+/col11 {0.530 0.810 1.000 srgb} bind def
+/col12 {0.000 0.560 0.000 srgb} bind def
+/col13 {0.000 0.690 0.000 srgb} bind def
+/col14 {0.000 0.820 0.000 srgb} bind def
+/col15 {0.000 0.560 0.560 srgb} bind def
+/col16 {0.000 0.690 0.690 srgb} bind def
+/col17 {0.000 0.820 0.820 srgb} bind def
+/col18 {0.560 0.000 0.000 srgb} bind def
+/col19 {0.690 0.000 0.000 srgb} bind def
+/col20 {0.820 0.000 0.000 srgb} bind def
+/col21 {0.560 0.000 0.560 srgb} bind def
+/col22 {0.690 0.000 0.690 srgb} bind def
+/col23 {0.820 0.000 0.820 srgb} bind def
+/col24 {0.500 0.190 0.000 srgb} bind def
+/col25 {0.630 0.250 0.000 srgb} bind def
+/col26 {0.750 0.380 0.000 srgb} bind def
+/col27 {1.000 0.500 0.500 srgb} bind def
+/col28 {1.000 0.630 0.630 srgb} bind def
+/col29 {1.000 0.750 0.750 srgb} bind def
+/col30 {1.000 0.880 0.880 srgb} bind def
+/col31 {1.000 0.840 0.000 srgb} bind def
+
+end
+save
+newpath 0 428 moveto 0 0 lineto 492 0 lineto 492 428 lineto closepath clip newpath
+-418.0 123.4 translate
+1 -1 scale
+
+/cp {closepath} bind def
+/ef {eofill} bind def
+/gr {grestore} bind def
+/gs {gsave} bind def
+/sa {save} bind def
+/rs {restore} bind def
+/l {lineto} bind def
+/m {moveto} bind def
+/rm {rmoveto} bind def
+/n {newpath} bind def
+/s {stroke} bind def
+/sh {show} bind def
+/slc {setlinecap} bind def
+/slj {setlinejoin} bind def
+/slw {setlinewidth} bind def
+/srgb {setrgbcolor} bind def
+/rot {rotate} bind def
+/sc {scale} bind def
+/sd {setdash} bind def
+/ff {findfont} bind def
+/sf {setfont} bind def
+/scf {scalefont} bind def
+/sw {stringwidth} bind def
+/tr {translate} bind def
+/tnt {dup dup currentrgbcolor
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add srgb}
+  bind def
+/shd {dup dup currentrgbcolor 4 -2 roll mul 4 -2 roll mul
+  4 -2 roll mul srgb} bind def
+/$F2psBegin {$F2psDict begin /$F2psEnteredState save def} def
+/$F2psEnd {$F2psEnteredState restore end} def
+
+$F2psBegin
+10 setmiterlimit
+0 slj 0 slc
+ 0.03000 0.03000 sc
+%
+% Fig objects follow
+%
+% 
+% here starts figure with depth 50
+% Polyline
+0 slj
+0 slc
+7.500 slw
+n 14100 -9450 m 14850 -9450 l 14475 -10125 l
+ 15225 -10125 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 15225 -10125 m
+ 14850 -9450 l gs col0 s gr 
+% Polyline
+n 14475 -10125 m
+ 14100 -9450 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 16125 -10125 m
+ 16875 -10125 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 16125 -10125 m
+ 16125 -9375 l gs col0 s gr 
+% Polyline
+n 16875 -10125 m
+ 16875 -9375 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 16125 -9375 m
+ 16875 -9375 l gs col0 s gr 
+% Polyline
+n 18000 -8700 m 18750 -8700 l 18375 -9375 l
+ 19125 -9375 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 18000 -8700 m
+ 18375 -9375 l gs col0 s gr 
+% Polyline
+n 18750 -8700 m
+ 19125 -9375 l gs col0 s gr 
+% Polyline
+n 18375 -9375 m
+ 18375 -10125 l gs col0 s gr 
+% Polyline
+n 19125 -10125 m
+ 19125 -9375 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 18375 -10125 m
+ 19125 -10125 l gs col0 s gr 
+% Polyline
+n 20175 -8775 m 20925 -8775 l 20550 -9450 l
+ 21300 -9450 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 20175 -8775 m
+ 20550 -9450 l gs col0 s gr 
+% Polyline
+n 20925 -8775 m
+ 21300 -9450 l gs col0 s gr 
+% Polyline
+n 20550 -9450 m
+ 20175 -10125 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20550 -9450 m 20925 -10125 l
+ 20175 -10125 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 20925 -10125 m
+ 21300 -9450 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14025 -7350 m
+ 14400 -8025 l gs col0 s gr 
+% Polyline
+n 14775 -7350 m
+ 15150 -8025 l gs col0 s gr 
+% Polyline
+n 14400 -8025 m
+ 14400 -8775 l gs col0 s gr 
+% Polyline
+n 15150 -8775 m
+ 15150 -8025 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14400 -8775 m
+ 15150 -8775 l gs col0 s gr 
+% Polyline
+n 15150 -8025 m
+ 14400 -8025 l gs col0 s gr 
+% Polyline
+n 14025 -7350 m
+ 14775 -7350 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14400 -8025 m
+ 14775 -7350 l gs col0 s gr 
+% Polyline
+n 17925 -5475 m 18675 -5475 l 18300 -6150 l
+ 19050 -6150 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17925 -5475 m
+ 18300 -6150 l gs col0 s gr 
+% Polyline
+n 18675 -5475 m
+ 19050 -6150 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 18300 -6150 m 19050 -6150 l 18675 -6825 l
+ 19425 -6825 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 18300 -6150 m
+ 18675 -6825 l gs col0 s gr 
+% Polyline
+n 19050 -6150 m
+ 19425 -6825 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 18675 -6825 m
+ 19050 -7500 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 19050 -7500 m
+ 19425 -6825 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 18675 -6825 m
+ 19425 -6825 l gs col0 s gr 
+% Polyline
+n 19050 -7500 m
+ 18300 -7500 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 18300 -7500 m
+ 18675 -6825 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 18300 -7500 m
+ 18675 -8175 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 18675 -8175 m
+ 19050 -7500 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 18300 -7500 m
+ 19050 -7500 l gs col0 s gr 
+% Polyline
+n 18675 -8175 m
+ 17925 -8175 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17925 -8175 m
+ 18300 -7500 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 18150 825 m
+ 18525 150 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 18525 150 m
+ 18900 825 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 18150 825 m
+ 18900 825 l gs col0 s gr 
+% Polyline
+n 18525 150 m
+ 17775 150 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17775 150 m
+ 18150 825 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 17775 150 m
+ 18150 -525 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 18150 -525 m
+ 18525 150 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 17775 150 m
+ 18525 150 l gs col0 s gr 
+% Polyline
+n 18150 -525 m
+ 17400 -525 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17400 -525 m
+ 17775 150 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 17400 -525 m 18150 -525 l 17775 -1200 l
+ 18525 -1200 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17400 -525 m
+ 17775 -1200 l gs col0 s gr 
+% Polyline
+n 18150 -525 m
+ 18525 -1200 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 17775 -1200 m
+ 18150 -1875 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 18150 -1875 m
+ 18525 -1200 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 17775 -1200 m
+ 18525 -1200 l gs col0 s gr 
+% Polyline
+n 18150 -1875 m
+ 17400 -1875 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17400 -1875 m
+ 17775 -1200 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 17400 -1875 m 18150 -1875 l 17775 -2550 l
+ 18525 -2550 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17400 -1875 m
+ 17775 -2550 l gs col0 s gr 
+% Polyline
+n 18150 -1875 m
+ 18525 -2550 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 17775 -2550 m 18525 -2550 l 18150 -3225 l
+ 18900 -3225 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17775 -2550 m
+ 18150 -3225 l gs col0 s gr 
+% Polyline
+n 18525 -2550 m
+ 18900 -3225 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 18150 -3225 m
+ 18525 -3900 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 18525 -3900 m
+ 18900 -3225 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 18150 -3225 m
+ 18900 -3225 l gs col0 s gr 
+% Polyline
+n 18525 -3900 m
+ 17775 -3900 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17775 -3900 m
+ 18150 -3225 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 17775 -3900 m 18525 -3900 l 18150 -4575 l
+ 18900 -4575 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17775 -3900 m
+ 18150 -4575 l gs col0 s gr 
+% Polyline
+n 18525 -3900 m
+ 18900 -4575 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 16350 -6675 m
+ 16725 -7350 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 16725 -7350 m
+ 17100 -6675 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 16350 -6675 m
+ 17100 -6675 l gs col0 s gr 
+% Polyline
+n 16725 -7350 m
+ 15975 -7350 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 15975 -7350 m
+ 16350 -6675 l gs col0 s gr 
+% Polyline
+n 15975 -7350 m
+ 15975 -8100 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 15975 -8100 m
+ 16725 -8100 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 16725 -7350 m
+ 16725 -8100 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 15975 -7350 m
+ 16725 -7350 l gs col0 s gr 
+% Polyline
+n 15975 -8100 m 16725 -8100 l 16350 -8775 l
+ 17100 -8775 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 15975 -8100 m
+ 16350 -8775 l gs col0 s gr 
+% Polyline
+n 16725 -8100 m
+ 17100 -8775 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 22425 -7950 m
+ 22800 -8625 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 22800 -8625 m
+ 23175 -7950 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 22425 -7950 m
+ 23175 -7950 l gs col0 s gr 
+% Polyline
+n 22800 -8625 m
+ 22050 -8625 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 22050 -8625 m
+ 22425 -7950 l gs col0 s gr 
+% Polyline
+n 22050 -8625 m
+ 22050 -9375 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 22050 -9375 m
+ 22800 -9375 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 22800 -8625 m
+ 22800 -9375 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 22050 -8625 m
+ 22800 -8625 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 22050 -9375 m
+ 22050 -10125 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 22050 -10125 m
+ 22800 -10125 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 22800 -9375 m
+ 22800 -10125 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 22050 -9375 m
+ 22800 -9375 l gs col0 s gr 
+% Polyline
+n 24000 -2700 m
+ 24375 -3375 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24375 -3375 m
+ 24750 -2700 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 24000 -2700 m
+ 24750 -2700 l gs col0 s gr 
+% Polyline
+n 24375 -3375 m
+ 23625 -3375 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 23625 -3375 m
+ 24000 -2700 l gs col0 s gr 
+% Polyline
+n 23625 -3375 m
+ 23625 -4125 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 23625 -4125 m
+ 24375 -4125 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24375 -3375 m
+ 24375 -4125 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 23625 -3375 m
+ 24375 -3375 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 23625 -4125 m
+ 23625 -4875 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 23625 -4875 m
+ 24375 -4875 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24375 -4125 m
+ 24375 -4875 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 23625 -4125 m
+ 24375 -4125 l gs col0 s gr 
+% Polyline
+n 23625 -4875 m 24375 -4875 l 24000 -5550 l
+ 24750 -5550 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 23625 -4875 m
+ 24000 -5550 l gs col0 s gr 
+% Polyline
+n 24375 -4875 m
+ 24750 -5550 l gs col0 s gr 
+% Polyline
+n 24000 -5550 m
+ 24000 -6300 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 24000 -6300 m
+ 24750 -6300 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24750 -5550 m
+ 24750 -6300 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 24000 -5550 m
+ 24750 -5550 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24000 -6300 m
+ 24000 -7050 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 24000 -7050 m
+ 24750 -7050 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24750 -6300 m
+ 24750 -7050 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 24000 -6300 m
+ 24750 -6300 l gs col0 s gr 
+% Polyline
+n 24075 225 m
+ 24450 -450 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24450 -450 m
+ 24825 225 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 24075 225 m
+ 24825 225 l gs col0 s gr 
+% Polyline
+n 24450 -450 m
+ 23700 -450 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 23700 -450 m
+ 24075 225 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 23700 -450 m
+ 24075 -1125 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24075 -1125 m
+ 24450 -450 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 23700 -450 m
+ 24450 -450 l gs col0 s gr 
+% Polyline
+n 24075 -1125 m
+ 23325 -1125 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 23325 -1125 m
+ 23700 -450 l gs col0 s gr 
+% Polyline
+n 23325 -1125 m
+ 23325 -1875 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 23325 -1875 m
+ 24075 -1875 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24075 -1125 m
+ 24075 -1875 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 23325 -1125 m
+ 24075 -1125 l gs col0 s gr 
+% Polyline
+n 27375 -3225 m
+ 27750 -3900 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 27750 -3900 m
+ 28125 -3225 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 27375 -3225 m
+ 28125 -3225 l gs col0 s gr 
+% Polyline
+n 27750 -3900 m
+ 27000 -3900 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 27000 -3900 m
+ 27375 -3225 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 27000 -3900 m
+ 27375 -4575 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 27375 -4575 m
+ 27750 -3900 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 27000 -3900 m
+ 27750 -3900 l gs col0 s gr 
+% Polyline
+n 27375 -4575 m
+ 26625 -4575 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 26625 -4575 m
+ 27000 -3900 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 26625 -4575 m 27375 -4575 l 27000 -5250 l
+ 27750 -5250 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 26625 -4575 m
+ 27000 -5250 l gs col0 s gr 
+% Polyline
+n 27375 -4575 m
+ 27750 -5250 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 27075 -5925 m
+ 27450 -6600 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 27450 -6600 m
+ 27825 -5925 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 27075 -5925 m
+ 27825 -5925 l gs col0 s gr 
+% Polyline
+n 27450 -6600 m
+ 26700 -6600 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 26700 -6600 m
+ 27075 -5925 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 26700 -6600 m
+ 27075 -7275 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 27075 -7275 m
+ 27450 -6600 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 26700 -6600 m
+ 27450 -6600 l gs col0 s gr 
+% Polyline
+n 27075 -7275 m
+ 26325 -7275 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 26325 -7275 m
+ 26700 -6600 l gs col0 s gr 
+% Polyline
+n 26325 -7275 m
+ 26325 -8025 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 26325 -8025 m
+ 27075 -8025 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 27075 -7275 m
+ 27075 -8025 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 26325 -7275 m
+ 27075 -7275 l gs col0 s gr 
+% Polyline
+n 26325 -8025 m 27075 -8025 l 26700 -8700 l
+ 27450 -8700 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 26325 -8025 m
+ 26700 -8700 l gs col0 s gr 
+% Polyline
+n 27075 -8025 m
+ 27450 -8700 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 26700 -8700 m 27450 -8700 l 27075 -9375 l
+ 27825 -9375 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 26700 -8700 m
+ 27075 -9375 l gs col0 s gr 
+% Polyline
+n 27450 -8700 m
+ 27825 -9375 l gs col0 s gr 
+% Polyline
+n 27075 -9375 m
+ 27075 -10125 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 27075 -10125 m
+ 27825 -10125 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 27825 -9375 m
+ 27825 -10125 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 27075 -9375 m
+ 27825 -9375 l gs col0 s gr 
+% Polyline
+n 24000 -8025 m
+ 24375 -8700 l gs col0 s gr 
+% Polyline
+n 24375 -8700 m
+ 24750 -9375 l gs col0 s gr 
+% Polyline
+n 25500 -9375 m
+ 25125 -8700 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 25125 -8700 m
+ 24375 -8700 l gs col0 s gr 
+% Polyline
+n 24000 -8025 m
+ 24750 -8025 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 24375 -8700 m
+ 24750 -8025 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24750 -9375 m
+ 25500 -9375 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 24750 -9375 m 25125 -8700 l
+ 25050 -8700 l gs col0 s gr 
+% Polyline
+n 24750 -10125 m
+ 24750 -9375 l gs col0 s gr 
+% Polyline
+n 25500 -10125 m
+ 25500 -9375 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24750 -10125 m
+ 25500 -10125 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 24750 -8025 m
+ 25125 -8700 l gs col0 s gr 
+% Polyline
+n 29475 -5925 m
+ 29850 -6600 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 29850 -6600 m
+ 30225 -5925 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 29475 -5925 m
+ 30225 -5925 l gs col0 s gr 
+% Polyline
+n 29850 -6600 m
+ 29100 -6600 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 29100 -6600 m
+ 29475 -5925 l gs col0 s gr 
+% Polyline
+n 29100 -6600 m
+ 29100 -7350 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 29100 -7350 m
+ 29850 -7350 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 29850 -6600 m
+ 29850 -7350 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 29100 -6600 m
+ 29850 -6600 l gs col0 s gr 
+% Polyline
+n 29100 -7350 m
+ 29475 -8025 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 29475 -8025 m
+ 29850 -7350 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 29100 -7350 m
+ 29850 -7350 l gs col0 s gr 
+% Polyline
+n 29475 -8025 m
+ 28725 -8025 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 28725 -8025 m
+ 29100 -7350 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 28725 -8025 m 29475 -8025 l 29100 -8700 l
+ 29850 -8700 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 28725 -8025 m
+ 29100 -8700 l gs col0 s gr 
+% Polyline
+n 29475 -8025 m
+ 29850 -8700 l gs col0 s gr 
+% Polyline
+n 29100 -8700 m
+ 29100 -9450 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 29100 -9450 m
+ 29850 -9450 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 29850 -8700 m
+ 29850 -9450 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 29100 -8700 m
+ 29850 -8700 l gs col0 s gr 
+% Polyline
+n 29100 -9450 m 29850 -9450 l 29475 -10125 l
+ 30225 -10125 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 29100 -9450 m
+ 29475 -10125 l gs col0 s gr 
+% Polyline
+n 29850 -9450 m
+ 30225 -10125 l gs col0 s gr 
+% Polyline
+n 20250 -7350 m
+ 20250 -6600 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20250 -6600 m
+ 21000 -6600 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 21000 -7350 m
+ 21000 -6600 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20250 -7350 m
+ 21000 -7350 l gs col0 s gr 
+% Polyline
+n 21000 -7350 m
+ 21675 -6975 l gs col0 s gr 
+% Polyline
+n 21675 -6975 m
+ 21000 -6600 l gs col0 s gr 
+% Polyline
+n 21000 -6600 m
+ 21675 -6225 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 21675 -6975 m
+ 21675 -6225 l gs col0 s gr 
+% Polyline
+n 21000 -6600 m
+ 20625 -5925 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20250 -6600 m
+ 20625 -5925 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 20250 -6600 m
+ 19875 -5925 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 19875 -5925 m
+ 20625 -5925 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 21300 -5550 m
+ 21675 -6225 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20625 -5925 m
+ 21300 -5550 l gs col0 s gr 
+% Polyline
+n 28800 -3000 m
+ 29175 -3675 l gs col0 s gr 
+% Polyline
+n 29550 -3000 m
+ 29925 -3675 l gs col0 s gr 
+% Polyline
+n 29175 -3675 m
+ 29175 -4425 l gs col0 s gr 
+% Polyline
+n 29925 -4425 m
+ 29925 -3675 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 29175 -4425 m
+ 29925 -4425 l gs col0 s gr 
+% Polyline
+n 29925 -3675 m
+ 29175 -3675 l gs col0 s gr 
+% Polyline
+n 28800 -3000 m
+ 29550 -3000 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 29175 -3675 m
+ 29550 -3000 l gs col0 s gr 
+% Polyline
+n 29175 -4425 m
+ 29175 -5175 l gs col0 s gr 
+% Polyline
+n 29925 -5175 m
+ 29925 -4425 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 29175 -5175 m
+ 29925 -5175 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 27825 -225 m
+ 27450 -900 l gs col0 s gr 
+% Polyline
+n 30075 -225 m
+ 29700 450 l gs col0 s gr 
+% Polyline
+n 30075 -1575 m
+ 29700 -900 l gs col0 s gr 
+% Polyline
+n 27825 -1575 m 27450 -2250 l
+ 29700 -2250 l gs col0 s gr 
+% Polyline
+n 27450 -900 m
+ 28200 -900 l gs col0 s gr 
+% Polyline
+n 27825 -1575 m
+ 27450 -900 l gs col0 s gr 
+% Polyline
+n 27825 -1575 m
+ 28200 -900 l gs col0 s gr 
+% Polyline
+n 28200 -900 m
+ 28950 -900 l gs col0 s gr 
+% Polyline
+n 28575 -1575 m
+ 28200 -900 l gs col0 s gr 
+% Polyline
+n 28575 -1575 m
+ 28950 -900 l gs col0 s gr 
+% Polyline
+n 28950 -900 m
+ 29700 -900 l gs col0 s gr 
+% Polyline
+n 29325 -1575 m
+ 29700 -900 l gs col0 s gr 
+% Polyline
+n 27825 -225 m
+ 28575 -225 l gs col0 s gr 
+% Polyline
+n 28200 -900 m
+ 27825 -225 l gs col0 s gr 
+% Polyline
+n 28200 -900 m
+ 28575 -225 l gs col0 s gr 
+% Polyline
+n 28575 -225 m
+ 29325 -225 l gs col0 s gr 
+% Polyline
+n 28950 -900 m
+ 28575 -225 l gs col0 s gr 
+% Polyline
+n 28950 -900 m
+ 29325 -225 l gs col0 s gr 
+% Polyline
+n 29325 -225 m
+ 30075 -225 l gs col0 s gr 
+% Polyline
+n 29700 -900 m
+ 29325 -225 l gs col0 s gr 
+% Polyline
+n 29700 -900 m
+ 30075 -225 l gs col0 s gr 
+% Polyline
+n 28950 450 m
+ 29700 450 l gs col0 s gr 
+% Polyline
+n 29325 -225 m
+ 28950 450 l gs col0 s gr 
+% Polyline
+n 29325 -225 m
+ 29700 450 l gs col0 s gr 
+% Polyline
+n 28200 450 m
+ 28950 450 l gs col0 s gr 
+% Polyline
+n 28575 -225 m
+ 28200 450 l gs col0 s gr 
+% Polyline
+n 28575 -225 m
+ 28950 450 l gs col0 s gr 
+% Polyline
+n 27450 450 m
+ 28200 450 l gs col0 s gr 
+% Polyline
+n 27825 -225 m
+ 27450 450 l gs col0 s gr 
+% Polyline
+n 29325 -1575 m
+ 30075 -1575 l gs col0 s gr 
+% Polyline
+n 29700 -2250 m
+ 29325 -1575 l gs col0 s gr 
+% Polyline
+n 29700 -2250 m
+ 30075 -1575 l gs col0 s gr 
+% Polyline
+n 28575 -1575 m
+ 29325 -1575 l gs col0 s gr 
+% Polyline
+n 28950 -2250 m
+ 28575 -1575 l gs col0 s gr 
+% Polyline
+n 28950 -2250 m
+ 29325 -1575 l gs col0 s gr 
+% Polyline
+n 27825 -1575 m
+ 28575 -1575 l gs col0 s gr 
+% Polyline
+n 28200 -2250 m
+ 27825 -1575 l gs col0 s gr 
+% Polyline
+n 28200 -2250 m
+ 28575 -1575 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 27825 -225 m
+ 27450 450 l gs col0 s gr 
+% Polyline
+n 28575 -225 m
+ 28200 450 l gs col0 s gr 
+% Polyline
+n 28950 450 m
+ 29700 450 l gs col0 s gr 
+% Polyline
+n 30075 -225 m
+ 29700 450 l gs col0 s gr 
+% Polyline
+n 28575 -225 m
+ 29325 -225 l gs col0 s gr 
+% Polyline
+n 28200 -900 m
+ 28575 -225 l gs col0 s gr 
+% Polyline
+n 27450 -900 m
+ 28200 -900 l gs col0 s gr 
+% Polyline
+n 29700 -900 m
+ 29325 -225 l gs col0 s gr 
+% Polyline
+n 29325 -1575 m
+ 29700 -900 l gs col0 s gr 
+% Polyline
+n 28575 -1575 m
+ 28950 -900 l gs col0 s gr 
+% Polyline
+n 27825 -1575 m
+ 28575 -1575 l gs col0 s gr 
+% Polyline
+n 27450 -2250 m
+ 27825 -1575 l gs col0 s gr 
+% Polyline
+n 28950 -2250 m
+ 28575 -1575 l gs col0 s gr 
+% Polyline
+n 28950 -2250 m
+ 29700 -2250 l gs col0 s gr 
+% Polyline
+n 29700 -2250 m
+ 30075 -1575 l gs col0 s gr 
+% Polyline
+n 16425 1800 m
+ 16425 2550 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 16425 2550 m
+ 17175 2550 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17175 1800 m
+ 17175 2550 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 16425 1800 m
+ 17175 1800 l gs col0 s gr 
+% Polyline
+n 17175 1800 m
+ 17850 2175 l gs col0 s gr 
+% Polyline
+n 17850 2175 m
+ 17175 2550 l gs col0 s gr 
+% Polyline
+n 17175 2550 m
+ 17850 2925 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 17850 2175 m
+ 17850 2925 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 17175 2550 m
+ 16800 3225 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 16425 2550 m
+ 16800 3225 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 16425 2550 m
+ 16050 3225 l gs col0 s gr 
+% Polyline
+n 16050 3225 m
+ 16800 3225 l gs col0 s gr 
+% Polyline
+n 17475 3600 m
+ 17850 2925 l gs col0 s gr 
+% Polyline
+n 16800 3225 m
+ 17475 3600 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 16800 3225 m
+ 17850 2925 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 15150 900 m
+ 15525 225 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 15525 225 m
+ 15900 900 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 15150 900 m
+ 15900 900 l gs col0 s gr 
+% Polyline
+n 15525 225 m
+ 14775 225 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14775 225 m
+ 15150 900 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14775 225 m
+ 15150 -450 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 15150 -450 m
+ 15525 225 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14775 225 m
+ 15525 225 l gs col0 s gr 
+% Polyline
+n 15150 -450 m
+ 14400 -450 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14400 -450 m
+ 14775 225 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14400 -450 m 15150 -450 l 14775 -1125 l
+ 15525 -1125 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14400 -450 m
+ 14775 -1125 l gs col0 s gr 
+% Polyline
+n 15150 -450 m
+ 15525 -1125 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14775 -1125 m
+ 15150 -1800 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 15150 -1800 m
+ 15525 -1125 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14775 -1125 m
+ 15525 -1125 l gs col0 s gr 
+% Polyline
+n 15150 -1800 m
+ 14400 -1800 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14400 -1800 m
+ 14775 -1125 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14400 -1800 m
+ 14775 -2475 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14775 -2475 m
+ 15150 -1800 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14400 -1800 m
+ 15150 -1800 l gs col0 s gr 
+% Polyline
+n 14775 -2475 m
+ 14025 -2475 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14025 -2475 m
+ 14400 -1800 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14025 -2475 m 14775 -2475 l 14400 -3150 l
+ 15150 -3150 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14025 -2475 m
+ 14400 -3150 l gs col0 s gr 
+% Polyline
+n 14775 -2475 m
+ 15150 -3150 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14400 -3150 m 15150 -3150 l 14775 -3825 l
+ 15525 -3825 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14400 -3150 m
+ 14775 -3825 l gs col0 s gr 
+% Polyline
+n 15150 -3150 m
+ 15525 -3825 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14775 -3825 m
+ 15150 -4500 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 15150 -4500 m
+ 15525 -3825 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14775 -3825 m
+ 15525 -3825 l gs col0 s gr 
+% Polyline
+n 15150 -4500 m
+ 14400 -4500 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14400 -4500 m
+ 14775 -3825 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14400 -4500 m 15150 -4500 l 14775 -5175 l
+ 15525 -5175 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14400 -4500 m
+ 14775 -5175 l gs col0 s gr 
+% Polyline
+n 15150 -4500 m
+ 15525 -5175 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14775 -5175 m 15525 -5175 l 15150 -5850 l
+ 15900 -5850 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14775 -5175 m
+ 15150 -5850 l gs col0 s gr 
+% Polyline
+n 15525 -5175 m
+ 15900 -5850 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14400 3750 m
+ 14775 3075 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14775 3075 m
+ 15150 3750 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14400 3750 m
+ 15150 3750 l gs col0 s gr 
+% Polyline
+n 14775 3075 m
+ 14025 3075 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14025 3075 m
+ 14400 3750 l gs col0 s gr 
+% Polyline
+n 14025 3075 m
+ 14025 2325 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14025 2325 m
+ 14775 2325 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14775 3075 m
+ 14775 2325 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 14025 3075 m
+ 14775 3075 l gs col0 s gr 
+% Polyline
+n 14025 2325 m 14775 2325 l 14400 1650 l
+ 15150 1650 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 14025 2325 m
+ 14400 1650 l gs col0 s gr 
+% Polyline
+n 14775 2325 m
+ 15150 1650 l gs col0 s gr 
+% Polyline
+n 28050 3075 m
+ 28800 3075 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 28050 3075 m
+ 28425 2400 l gs col0 s gr 
+% Polyline
+n 28425 2400 m
+ 28800 3075 l gs col0 s gr 
+% Polyline
+n 28050 3075 m
+ 27675 2400 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 27675 2400 m
+ 28425 2400 l gs col0 s gr 
+% Polyline
+n 28800 3075 m
+ 29175 2400 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 29175 2400 m
+ 29550 3075 l gs col0 s gr 
+% Polyline
+n 28425 2400 m
+ 29175 2400 l gs col0 s gr 
+% Polyline
+n 28800 3075 m
+ 29550 3075 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 29550 3075 m
+ 29925 2400 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 29925 2400 m
+ 30300 3075 l gs col0 s gr 
+% Polyline
+n 29550 3075 m
+ 30300 3075 l gs col0 s gr 
+% Polyline
+n 27675 2400 m
+ 28050 1725 l gs col0 s gr 
+% Polyline
+n 28050 1725 m
+ 28425 2400 l gs col0 s gr 
+% Polyline
+n 28425 2400 m
+ 28800 1725 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 28800 1725 m
+ 29175 2400 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 29175 2400 m
+ 29550 1725 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 29550 1725 m
+ 29925 2400 l gs col0 s gr 
+% Polyline
+n 28050 1725 m
+ 28800 1725 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 28800 1725 m
+ 29550 1725 l gs col0 s gr 
+% Polyline
+n 28050 1725 m
+ 27300 1725 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 27300 1725 m
+ 27675 2400 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 27300 1725 m
+ 27675 1050 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 27675 1050 m
+ 28050 1725 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 28050 1725 m
+ 28425 1050 l gs col0 s gr 
+% Polyline
+n 28425 1050 m
+ 28800 1725 l gs col0 s gr 
+% Polyline
+n 28800 1725 m
+ 29175 1050 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 29175 1050 m
+ 29550 1725 l gs col0 s gr 
+% Polyline
+n 26925 1050 m
+ 27300 1725 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 26925 1050 m
+ 27675 1050 l gs col0 s gr 
+% Polyline
+n 27675 1050 m
+ 28425 1050 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 28425 1050 m
+ 29175 1050 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 29175 2400 m
+ 29925 2400 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 19200 1500 m
+ 18825 2175 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 19200 1500 m
+ 19575 2175 l gs col0 s gr 
+% Polyline
+n 18825 2175 m
+ 19575 2175 l gs col0 s gr 
+% Polyline
+n 19575 2175 m
+ 20325 2175 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 19575 2175 m
+ 19950 1500 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 19950 1500 m
+ 20325 2175 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 20325 2175 m
+ 20700 1500 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 19200 1500 m
+ 19950 1500 l gs col0 s gr 
+% Polyline
+n 19950 1500 m
+ 20700 1500 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 18825 2175 m
+ 18825 2925 l gs col0 s gr 
+% Polyline
+n 19575 2175 m
+ 19575 2925 l gs col0 s gr 
+% Polyline
+n 20325 2175 m
+ 20325 2925 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 18825 2925 m
+ 19575 2925 l gs col0 s gr 
+% Polyline
+n 19575 2925 m
+ 20325 2925 l gs col0 s gr 
+% Polyline
+n 20325 2175 m
+ 21000 2550 l gs col0 s gr 
+% Polyline
+n 21000 2550 m
+ 20325 2925 l gs col0 s gr 
+% Polyline
+n 20325 2925 m
+ 21000 3300 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 21000 2550 m
+ 21000 3300 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20700 1500 m
+ 21375 1875 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 21375 1875 m
+ 21000 2550 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 21000 2550 m
+ 21675 2925 l gs col0 s gr 
+% Polyline
+n 21675 2925 m
+ 21000 3300 l gs col0 s gr 
+% Polyline
+n 21000 3300 m
+ 21675 3675 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 21675 3675 m
+ 21675 2925 l gs col0 s gr 
+% Polyline
+n 21675 2925 m
+ 22050 2250 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 22050 2250 m
+ 21375 1875 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 23550 1950 m
+ 24300 1950 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 23550 1950 m
+ 23925 2625 l gs col0 s gr 
+% Polyline
+n 23925 2625 m
+ 24300 1950 l gs col0 s gr 
+% Polyline
+n 24300 1950 m
+ 24675 2625 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24675 2625 m
+ 23925 2625 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 24675 2625 m
+ 24300 3300 l gs col0 s gr 
+% Polyline
+n 23925 2625 m
+ 23550 3300 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 23550 3300 m
+ 24300 3300 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 24675 2625 m
+ 25050 3300 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 25050 3300 m
+ 24300 3300 l gs col0 s gr 
+% Polyline
+n 24300 1950 m
+ 25050 1950 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 25050 1950 m
+ 25425 2625 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 24675 2625 m
+ 25425 2625 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 25425 2625 m
+ 25050 3300 l gs col0 s gr 
+% Polyline
+n 25050 1950 m
+ 25800 1950 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 25800 1950 m
+ 25425 2625 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 25800 1950 m
+ 26175 2625 l gs col0 s gr 
+% Polyline
+n 26175 2625 m
+ 25425 2625 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 25425 2625 m
+ 25800 3300 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 26175 2625 m
+ 25800 3300 l gs col0 s gr 
+% Polyline
+n 25050 3300 m
+ 25800 3300 l gs col0 s gr 
+% Polyline
+n 21000 675 m
+ 21375 0 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 21375 0 m
+ 21750 675 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 21000 675 m
+ 21750 675 l gs col0 s gr 
+% Polyline
+n 21375 0 m
+ 20625 0 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 20625 0 m
+ 21000 675 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20625 0 m
+ 21000 -675 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 21000 -675 m
+ 21375 0 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20625 0 m
+ 21375 0 l gs col0 s gr 
+% Polyline
+n 21000 -675 m
+ 20250 -675 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 20250 -675 m
+ 20625 0 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20250 -675 m
+ 20625 -1350 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 20625 -1350 m
+ 21000 -675 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20250 -675 m
+ 21000 -675 l gs col0 s gr 
+% Polyline
+n 20625 -1350 m
+ 19875 -1350 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 19875 -1350 m
+ 20250 -675 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 19875 -1350 m 20625 -1350 l 20250 -2025 l
+ 21000 -2025 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 19875 -1350 m
+ 20250 -2025 l gs col0 s gr 
+% Polyline
+n 20625 -1350 m
+ 21000 -2025 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20250 -2025 m 21000 -2025 l 20625 -2700 l
+ 21375 -2700 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 20250 -2025 m
+ 20625 -2700 l gs col0 s gr 
+% Polyline
+n 21000 -2025 m
+ 21375 -2700 l gs col0 s gr 
+% Polyline
+7.500 slw
+n 20625 -2700 m 21375 -2700 l 21000 -3375 l
+ 21750 -3375 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 20625 -2700 m
+ 21000 -3375 l gs col0 s gr 
+% Polyline
+n 21375 -2700 m
+ 21750 -3375 l gs col0 s gr 
+% here ends figure;
+$F2psEnd
+rs
+showpage
+%%Trailer
+%EOF

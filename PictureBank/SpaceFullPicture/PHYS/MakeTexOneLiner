@@ -1,0 +1,23 @@
+#!/usr/bin/perl
+
+$uu=scalar(@ARGV);
+if ($uu ne 1)
+{
+    print "MakeTexOneLiner [File]\n";
+    print "with [File] a nude set of Delaney symbols\n";
+    die;
+}
+
+$File=$ARGV[0];
+
+@H=split("", $File);
+$strShort="";
+for ($iChar=1; $iChar<=scalar(@H)-4; $iChar++)
+{
+    $strShort=$strShort.$H[$iChar-1];
+}
+$OutputFile=$strShort.".tex";
+
+open(OUT, "> ".$OutputFile);
+print OUT "\\resizebox{3.8cm}{!}{\includegraphics[bb=, clip]{SpaceFullPicture/PHYS/".$File."}}\\par";
+close(OUT);
