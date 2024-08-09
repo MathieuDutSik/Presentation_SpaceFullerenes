@@ -1,0 +1,1 @@
+../../../../KeyMakefile/makefile.latex.standardAndPdf

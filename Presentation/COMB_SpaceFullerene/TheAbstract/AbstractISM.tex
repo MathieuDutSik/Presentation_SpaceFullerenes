@@ -1,0 +1,105 @@
+\documentclass[12pt]{article}
+\usepackage{amsfonts, amsmath, latexsym, vmargin, epsfig}
+\usepackage{epsf}
+\usepackage{url}
+\usepackage{color}
+\title{The enumeration of space fullerenes}
+\setpapersize{custom}{21cm}{29.7cm}
+\setmarginsrb{1.7cm}{1cm}{1.7cm}{3.5cm}{0pt}{0pt}{0pt}{0pt}
+%marge gauche, marge haut, marge droite, marge bas.
+
+\author{Mathieu DUTOUR}
+
+
+
+\begin{document}
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\Q}{\ensuremath{\mathbb{Q}}}
+\newcommand{\C}{\ensuremath{\mathbb{C}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\newcommand{\T}{\ensuremath{\mathbb{T}}}
+\newtheorem{proposition}{Proposition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}
+\newtheorem{lemma}{Lemma}
+\newtheorem{problem}{Problem}
+\newtheorem{conjecture}{Conjecture}
+\newtheorem{claim}{Claim}
+\newtheorem{remark}{Remark}
+\newtheorem{definition}{Definition}
+\newcommand{\qed}{\hfill $\Box$ }
+\newcommand{\proof}{\noindent{\bf Proof.}\ \ }
+
+\maketitle
+
+
+\begin{abstract}
+A fullerene is a $3$-valent plane graphs whose faces are pentagons and
+hexagons.
+A fullerene is said to be IHR if its hexagons are adjacent, i.e. are
+adjacent only to pentagons. A {\em space fullerene} is a $4$-valent
+tiling of the space by IHR fullerenes. Space fullerenes are interesting
+in crystallography and in Discrete geometry.
+
+
+See below the $4$ IHR fullerene and a space fullerene:
+\begin{center}
+\begin{minipage}{5.5cm}
+\begin{minipage}{25mm}
+\centering
+\epsfxsize=16mm
+\epsfbox{PictureAppli/F1.ps}\par
+\textcolor{white}{Bonjour}
+\end{minipage}
+\hfill\begin{minipage}{25mm}
+\centering
+\epsfxsize=16mm
+\epsfbox{PictureAppli/F2sec.eps}\par
+\textcolor{white}{Bonjour}
+\end{minipage}
+\begin{minipage}{25mm}
+\centering
+\epsfxsize=16mm
+\epsfbox{PictureAppli/F3sec.eps}\par
+\textcolor{white}{Bonjour}
+\end{minipage}
+\hfill\begin{minipage}{25mm}
+\centering
+\epsfxsize=16mm
+\epsfbox{PictureAppli/F4sec.eps}\par
+\textcolor{white}{Bonjour}
+\end{minipage}
+\end{minipage}
+\begin{minipage}{6.5cm}
+\centering
+\resizebox{4cm}{!}{\includegraphics[bb=176 30 420 267, clip]{PictureAppli/fig14.eps}}\par
+\end{minipage}
+\end{center}
+
+We enumerates the space fullerenes with a small fundamental domain
+under their translation groups. The technique is decomposed into
+two steps:
+\begin{itemize}
+\item The use of Delaney symbols, i.e. flag systems, as the basic
+model for storing combinatorial informations and the use of the softwares
+{\bf 3dt} and {\bf Systre} by Olaf Delgado for transforming
+combinatorial description into topological and metric ones.
+
+\item The design of programs for enumerating space-fullerenes, using
+all the tricks in the books of combinatorial enumeration in order to
+achive the highest speed possible.
+\end{itemize}
+
+\end{abstract}
+
+
+
+
+\end{document}
+
+
+
+
+
+
